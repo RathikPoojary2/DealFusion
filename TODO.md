@@ -1,0 +1,4 @@
+- [x] Edit backend/scrapers/fakestorescraper.js: Change USD to INR conversion from *83 to *10 for FakeStoreAPI products.
+- [x] Edit backend/scrapers/fakestorescraper.js: Set Domino's pizza mock offer price to 150 INR.
+- [x] Run update_offers.js to update the database with new prices.
+- [x] Verify price changes in the frontend (e.g., Offers component).
